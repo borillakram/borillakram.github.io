@@ -1,0 +1,6 @@
+# Group 1
+User-agent: *
+Disallow: /res/
+Disallow: /scripts/
+Disallow: /styles/
+Disallow: /robots.txt
